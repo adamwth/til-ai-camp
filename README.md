@@ -1,1 +1,1 @@
-# til-ai-camp
+# TIl AI Camp
