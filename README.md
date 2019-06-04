@@ -27,3 +27,4 @@ solution
 - [Kahoot](https://kahoot.it/) - https://kahoot.it/
 - [TensorFlow Playground](https://playground.tensorflow.org/) -https://playground.tensorflow.org/ 
 - [3D Visualisation - Solving MNIST using CNN](http://scs.ryerson.ca/~aharley/vis/conv/) - http://scs.ryerson.ca/~aharley/vis/conv/
+- [Brainhack - Compilation of resources for getting started into the world of AI](https://github.com/brainhack-dsta/Brainhack) - https://github.com/brainhack-dsta/Brainhack
