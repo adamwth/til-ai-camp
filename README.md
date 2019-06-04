@@ -24,5 +24,6 @@ solution
 ## Links
 - [AWS Educate](http://awseducate.com) - http://awseducate.com
 - [AWS Educate Login Page](https://www.awseducate.com/signin/SiteLogin) - https://www.awseducate.com/signin/SiteLogin
+- [Kahoot](https://kahoot.it/) - https://kahoot.it/
 - [TensorFlow Playground](https://playground.tensorflow.org/) -https://playground.tensorflow.org/ 
 - [3D Visualisation - Solving MNIST using CNN](http://scs.ryerson.ca/~aharley/vis/conv/) - http://scs.ryerson.ca/~aharley/vis/conv/
