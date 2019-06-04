@@ -20,3 +20,9 @@ solution
 |- 1_MNIST_CNN_solution.ipynb
 |- 2_Image_Classification_CIFAR10_solution.ipynb
 ```
+
+## Links
+- [AWS Educate](http://awseducate.com) - http://awseducate.com
+- [AWS Educate Login Page](https://www.awseducate.com/signin/SiteLogin) - https://www.awseducate.com/signin/SiteLogin
+- [TensorFlow Playground](https://playground.tensorflow.org/) -https://playground.tensorflow.org/ 
+- [3D Visualisation - Solving MNIST using CNN](http://scs.ryerson.ca/~aharley/vis/conv/) - http://scs.ryerson.ca/~aharley/vis/conv/
