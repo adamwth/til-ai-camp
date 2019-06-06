@@ -28,3 +28,12 @@ solution
 - [TensorFlow Playground](https://playground.tensorflow.org/) -https://playground.tensorflow.org/ 
 - [3D Visualisation - Solving MNIST using CNN](http://scs.ryerson.ca/~aharley/vis/conv/) - http://scs.ryerson.ca/~aharley/vis/conv/
 - [Brainhack - Compilation of resources for getting started into the world of AI](https://github.com/brainhack-dsta/Brainhack) - https://github.com/brainhack-dsta/Brainhack
+
+## More Links
+There are many things you can try to improve on this baseline. Here's a short  and non-exhaustive list of tricks that deep learning practitioners are normally up to. Not all are free, but it's all great material:
+
+- https://keras.io/
+- https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html
+- https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-deep-learning-tips-and-tricks
+- https://www.deeplearningbook.org/contents/regularization.html
+- https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438
